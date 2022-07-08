@@ -1,8 +1,4 @@
-4438
-69C:\Apache24\htdocs\isuzo-tripetch\node_modules\json5\lib\stringify.js132959070939020000 0
-62C:\Apache24\htdocs\isuzo-tripetch\node_modules\.yarn-integrity133017120653708705 0
-76C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\utils\src\Deferred.js133004372650320000 0
-87C:\Apache24\htdocs\isuzo-tripetch\node_modules\posthtml-parser\dist\location-tracker.js132959070967190000 0
+4444
 46C:\Apache24\htdocs\isuzo-tripetch\package.json133017120653968021 0
 63C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\lib\svgo.js132959070957740000 0
 51C:\Apache24\htdocs\isuzo-tripetch\node_modules\csso133017118772843241 1
@@ -57,7 +53,7 @@
 67C:\Apache24\htdocs\isuzo-tripetch\node_modules\acorn\dist\acorn.mjs132959071018780000 0
 106C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c133004372750000000 0
 77C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-what\lib\commonjs\index.js132959071054070000 0
-53C:\Apache24\htdocs\isuzo-tripetch\node_modules\braces133017120605763379 1
+53C:\Apache24\htdocs\isuzo-tripetch\node_modules\braces133017120605973657 1
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\eme.js133014384994920000 0
 98C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133004372676780000 0
 94C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\css-focus-visible.js133014384994920000 0
@@ -65,7 +61,7 @@
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\escalade\sync\index.d.ts132959070979620000 0
 55C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\lib133017119036836343 1
 75C:\Apache24\htdocs\isuzo-tripetch\node_modules\@types\parse-json\index.d.ts132959071070650000 0
-38C:\Apache24\htdocs\isuzo-tripetch\dist133017124154663288 1
+38C:\Apache24\htdocs\isuzo-tripetch\dist133017844980176907 1
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133004372750000000 0
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\plugins\removeUselessDefs.js132959070957740000 0
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\plugins\convertEllipseToCircle.js132959070957740000 0
@@ -77,13 +73,19 @@
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\postcss-value-parser\lib133017119015874763 1
 112C:\Apache24\htdocs\isuzo-tripetch\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133014384991780000 0
 55C:\Apache24\htdocs\isuzo-tripetch\node_modules\mdn-data133017118790782843 1
-44C:\Apache24\htdocs\isuzo-tripetch\index.html133017123145668023 0
+44C:\Apache24\htdocs\isuzo-tripetch\index.html133017850713792740 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\dist\package.json133004372209420000 0
 73C:\Apache24\htdocs\isuzo-tripetch\node_modules\tslib\modules\package.json132978983876320000 0
 62C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\caching.js133004372750000000 0
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133004372724100000 0
 67C:\Apache24\htdocs\isuzo-tripetch\node_modules\json5\lib\index.d.ts132959070939020000 0
 51C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin133017120653273195 1
+58C:\Apache24\htdocs\isuzo-tripetch\node_modules\@jridgewell133017118500523764 1
+66C:\Apache24\htdocs\isuzo-tripetch\node_modules\stable\package.json132959070994850000 0
+67C:\Apache24\htdocs\isuzo-tripetch\node_modules\safe-buffer\index.js132959070982200000 0
+69C:\Apache24\htdocs\isuzo-tripetch\node_modules\entities\lib\decode.js132959071090110000 0
+43C:\Apache24\htdocs\isuzo-tripetch\README.md133017125310831400 0
+92C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133004372738260000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\domelementtype\package.json132959071116700000 0
 56C:\Apache24\htdocs\isuzo-tripetch\node_modules\callsites133017118765546880 1
 61C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\README.md132959070957740000 0
@@ -92,7 +94,10 @@
 68C:\Apache24\htdocs\isuzo-tripetch\node_modules\glob-parent\README.md132959977523770000 0
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\electron-to-chromium\CHANGELOG.md133017118432240000 0
 46C:\Apache24\htdocs\isuzo-tripetch\node_modules133017120653698727 1
-58C:\Apache24\htdocs\isuzo-tripetch\node_modules\@jridgewell133017118500523764 1
+69C:\Apache24\htdocs\isuzo-tripetch\node_modules\json5\lib\stringify.js132959070939020000 0
+62C:\Apache24\htdocs\isuzo-tripetch\node_modules\.yarn-integrity133017120653708705 0
+76C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\utils\src\Deferred.js133004372650320000 0
+87C:\Apache24\htdocs\isuzo-tripetch\node_modules\posthtml-parser\dist\location-tracker.js132959070967190000 0
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-tree\lib\generator133017119101042237 1
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\dist\bundle.min.js133004372209420000 0
 82C:\Apache24\htdocs\isuzo-tripetch\node_modules\@swc\helpers\lib\_inherits_loose.js133014384991780000 0
@@ -168,7 +173,7 @@
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\GE.js133014384994920000 0
 79C:\Apache24\htdocs\isuzo-tripetch\node_modules\react-error-overlay\package.json133004372749540000 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\node-gyp-build-test133017120652720961 0
-56C:\Apache24\htdocs\isuzo-tripetch\node_modules\picomatch133017120611908241 1
+56C:\Apache24\htdocs\isuzo-tripetch\node_modules\picomatch133017120612033460 1
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\binary-extensions133017120606292790 1
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\update-browserslist-db\index.d.ts133006253851150000 0
 68C:\Apache24\htdocs\isuzo-tripetch\node_modules\browserslist\parse.js133014384985220000 0
@@ -269,13 +274,13 @@
 66C:\Apache24\htdocs\isuzo-tripetch\node_modules\nth-check\README.md132978983900390000 0
 55C:\Apache24\htdocs\isuzo-tripetch\node_modules\error-ex133017118778848089 1
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\lib\mapping-list.js132959977520210000 0
-57C:\Apache24\htdocs\isuzo-tripetch\node_modules\fill-range133017120609893885 1
+57C:\Apache24\htdocs\isuzo-tripetch\node_modules\fill-range133017120610153329 1
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\type-fest\source\stringified.d.ts132959071019580000 0
 55C:\Apache24\htdocs\isuzo-tripetch\node_modules\get-port133017118780399102 1
-62C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\util133017120597683097 1
+62C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\util133017120625837813 1
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\workers\LICENSE133004372652550000 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\entities\lib\encode.d.ts132959071090110000 0
-58C:\Apache24\htdocs\isuzo-tripetch\node_modules\glob-parent133017120607704103 1
+58C:\Apache24\htdocs\isuzo-tripetch\node_modules\glob-parent133017120607902204 1
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\src\constants.js133004372677160000 0
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-tree\lib\tokenizer\const.js132959070992550000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\text-size-adjust.js133014384994920000 0
@@ -285,6 +290,8 @@
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\domelementtype\lib\index.d.ts132959071116700000 0
 58C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlparser2133017118783518291 1
 61C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\fs\src133017118985561880 1
+56C:\Apache24\htdocs\isuzo-tripetch\node_modules\immutable133017120610353512 1
+63C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\test.js132959070959300000 0
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\type-fest\source\iterable-element.d.ts132959071019580000 0
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web133017119122075071 1
 75C:\Apache24\htdocs\isuzo-tripetch\node_modules\posthtml-parser\changelog.md132959070967190000 0
@@ -294,8 +301,6 @@
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\chrome-trace-event\dist\trace-event.js132959070978470000 0
 61C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\events133017118843735478 1
 58C:\Apache24\htdocs\isuzo-tripetch\node_modules\is-arrayish133017118785057106 1
-56C:\Apache24\htdocs\isuzo-tripetch\node_modules\immutable133017120610353512 1
-63C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\test.js132959070959300000 0
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\TC.js133014384994920000 0
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\lib\mozilla-ast.js133004372209420000 0
 59C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\tools133017119020705209 1
@@ -313,7 +318,7 @@
 83C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\plugins\removeOffCanvasPaths.js132959070957740000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\workers\src\threads133017119125229345 1
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\woff.js133014384994920000 0
-87C:\Apache24\htdocs\isuzo-tripetch\node_modules\update-browserslist-db\node_modules\.bin133017120651313234 1
+87C:\Apache24\htdocs\isuzo-tripetch\node_modules\update-browserslist-db\node_modules\.bin133017120651326769 1
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\AS.js133014384994920000 0
 54C:\Apache24\htdocs\isuzo-tripetch\node_modules\is-glob133017120609445863 1
 87C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\pdf-viewer.js133014384994920000 0
@@ -364,9 +369,9 @@
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-tree\lib\syntax\pseudo\matches.js132959070992550000 0
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\hash\browser.js133004372686290000 0
 61C:\Apache24\htdocs\isuzo-tripetch\node_modules\node-addon-api133017118795678193 1
-67C:\Apache24\htdocs\isuzo-tripetch\node_modules\resolve-from\license132959071105870000 0
-83C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\lib\loadParcelPlugin.js133004372677160000 0
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-image133017120642699052 1
+83C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\lib\loadParcelPlugin.js133004372677160000 0
+67C:\Apache24\htdocs\isuzo-tripetch\node_modules\resolve-from\license132959071105870000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\css-nth-child-of.js133014384994920000 0
 104C:\Apache24\htdocs\isuzo-tripetch\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json132959071110360000 0
 61C:\Apache24\htdocs\isuzo-tripetch\node_modules\node-gyp-build133017118860983655 1
@@ -450,7 +455,7 @@
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\fs-search133017120642092848 1
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\lib\Transformation.js133004372677160000 0
 122C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src133017119159267662 1
-55C:\Apache24\htdocs\isuzo-tripetch\node_modules\readdirp133017120612191508 1
+55C:\Apache24\htdocs\isuzo-tripetch\node_modules\readdirp133017120612346501 1
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\utils\src\collection.js133004372650320000 0
 68C:\Apache24\htdocs\isuzo-tripetch\node_modules\yaml\browser\types.js132959071078920000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\src\ordered-binary.cpp133004372750000000 0
@@ -492,11 +497,11 @@
 73C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-what\lib\es\parse.d.ts132959071054070000 0
 106C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\node_modules\node-gyp-build-optional-packages\index.js133004372801520000 0
 101C:\Apache24\htdocs\isuzo-tripetch\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json132959071110360000 0
-61C:\Apache24\htdocs\isuzo-tripetch\node_modules\to-regex-range133017120614201319 1
+61C:\Apache24\htdocs\isuzo-tripetch\node_modules\to-regex-range133017120614298435 1
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133004372657300000 0
 56C:\Apache24\htdocs\isuzo-tripetch\node_modules\type-fest133017118879479499 1
 75C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlparser2\lib\Tokenizer.js132959071022710000 0
-60C:\Apache24\htdocs\isuzo-tripetch\node_modules\picomatch\lib133017120622695308 1
+60C:\Apache24\htdocs\isuzo-tripetch\node_modules\picomatch\lib133017120622851609 1
 88C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\user-timing.js133014384994920000 0
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\update-browserslist-db133017120650686808 1
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\csso\lib\clean\Declaration.js132959070993040000 0
@@ -588,7 +593,7 @@
 59C:\Apache24\htdocs\isuzo-tripetch\node_modules\yaml\util.js132959071078920000 0
 110C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt133004372750000000 0
 87C:\Apache24\htdocs\isuzo-tripetch\node_modules\yaml\browser\dist\resolveSeq-492ab440.js132959071078920000 0
-59C:\Apache24\htdocs\isuzo-tripetch\node_modules\chokidar\lib133017120615257171 1
+59C:\Apache24\htdocs\isuzo-tripetch\node_modules\chokidar\lib133017120620761126 1
 67C:\Apache24\htdocs\isuzo-tripetch\node_modules\yaml\types\binary.js132959071078920000 0
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\HU.js133014384994920000 0
 66C:\Apache24\htdocs\isuzo-tripetch\node_modules\yaml\types\pairs.js132959071078920000 0
@@ -744,7 +749,7 @@
 67C:\Apache24\htdocs\isuzo-tripetch\node_modules\posthtml-parser\dist133017119017211281 1
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\plugins\removeRasterImages.js132959070957740000 0
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\events\lib\ValueEmitter.js133004372657010000 0
-57C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types133017120623164898 1
+57C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types133017120623853093 1
 92C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\lib\modules\removeAttributeQuotes.js132959070959300000 0
 124C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js133004372775630000 0
 92C:\Apache24\htdocs\isuzo-tripetch\node_modules\@jridgewell\gen-mapping\dist\types\types.d.ts133014385007550000 0
@@ -1115,7 +1120,7 @@
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\electron-to-chromium\versions.json133017118432240000 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\tools\terser.d.ts133004372209420000 0
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-terser\package.json133004372704730000 0
-71C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\node_modules\.bin133017120650530566 1
+71C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\node_modules\.bin133017120650686808 1
 86C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-tree\lib\common\OffsetToLocation.js132959070992550000 0
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\gamepad.js133014384994920000 0
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\node_modules\commander\index.js132959070962990000 0
@@ -1343,15 +1348,11 @@
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js132959070992550000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\source-map.js132959977520210000 0
 68C:\Apache24\htdocs\isuzo-tripetch\node_modules\entities\lib\index.js132959071090110000 0
-71C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map\source-map.js132959071013440000 0
-69C:\Apache24\htdocs\isuzo-tripetch\node_modules\nth-check\lib\index.js132978983900390000 0
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\supports-color\license132959070928530000 0
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133004372750000000 0
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\stable\index.d.ts132959070994850000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\publickeypinning.js133014384994920000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\css-font-palette.js133014384994920000 0
-66C:\Apache24\htdocs\isuzo-tripetch\node_modules\stable\package.json132959070994850000 0
-67C:\Apache24\htdocs\isuzo-tripetch\node_modules\safe-buffer\index.js132959070982200000 0
 63C:\Apache24\htdocs\isuzo-tripetch\node_modules\stable\README.md132959070994850000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\array-find-index.js133014384994920000 0
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\src\public\Target.js133004372677160000 0
@@ -1369,7 +1370,7 @@
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\mdn-data\css\syntaxes.schema.json132959071068890000 0
 88C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\textcontent.js133014384994920000 0
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-select\lib\attributes.d.ts.map132959070985710000 0
-64C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\lib133017120624648979 1
+64C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\lib133017120624758995 1
 102C:\Apache24\htdocs\isuzo-tripetch\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133014384991780000 0
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-select\lib\compile.js132959070985710000 0
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\source-map.d.ts132959977520210000 0
@@ -1385,7 +1386,7 @@
 77C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb-data-v1133017118646637910 1
 88C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\lib\source-map-generator.js132959977520210000 0
 79C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\lib\source-node.js132959977520210000 0
-52C:\Apache24\htdocs\isuzo-tripetch\dist\index.css.map133017124154653311 0
+52C:\Apache24\htdocs\isuzo-tripetch\dist\index.css.map133017844980176907 0
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map\CHANGELOG.md132959071013440000 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\node-gyp-build\README.md133014384988380000 0
 91C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-html\lib\dependencies.js133004372727740000 0
@@ -1395,6 +1396,8 @@
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\csso\lib\clean\index.js132959070993040000 0
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\msgpackr-extract\index.js132978983873100000 0
 65C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map\LICENSE132959071013440000 0
+71C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map\source-map.js132959071013440000 0
+69C:\Apache24\htdocs\isuzo-tripetch\node_modules\nth-check\lib\index.js132978983900390000 0
 67C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\lib\modules133017119114770231 1
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\src\public133017119119285115 1
 98C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133004372750000000 0
@@ -1466,7 +1469,7 @@
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-json\node_modules133017120644251330 1
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\compile.d.ts133004372643650000 0
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\legacy133017120626615706 1
-64C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\logger133017120625145373 1
+64C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\logger133017120627214130 1
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\options.d.ts133004372643650000 0
 82C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\webgl.js133014384994920000 0
 82C:\Apache24\htdocs\isuzo-tripetch\node_modules\sass\types\value\argument_list.d.ts133004372643650000 0
@@ -1777,7 +1780,7 @@
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\markdown-ansi\lib133017118978238286 1
 83C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\tls1-1.js133014384994920000 0
 98C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133014384989230000 0
-92C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-postcss\node_modules\.bin133017120645199124 1
+92C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-postcss\node_modules\.bin133017120645304538 1
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\@jridgewell\source-map133017118802329321 1
 86C:\Apache24\htdocs\isuzo-tripetch\node_modules\node-gyp-build-optional-packages\bin.js132978983881640000 0
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\OM.js133014384994920000 0
@@ -1802,7 +1805,7 @@
 83C:\Apache24\htdocs\isuzo-tripetch\node_modules\node-addon-api\napi-inl.deprecated.h132959070974090000 0
 102C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133004372750000000 0
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lz4\LICENSE133004372750000000 0
-83C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\source-map\node_modules\.bin133017120643023481 1
+83C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\source-map\node_modules\.bin133017120643080451 1
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\packager-html\LICENSE133004372708910000 0
 109C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133004372677160000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-select\lib\general.d.ts132959070985710000 0
@@ -1828,7 +1831,7 @@
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\msgpackr-extract\package.json132978983873100000 0
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\utils\test\urlJoin.test.js133004372650320000 0
 79C:\Apache24\htdocs\isuzo-tripetch\node_modules\msgpackr-extract\src\extract.cpp132978983873100000 0
-81C:\Apache24\htdocs\isuzo-tripetch\node_modules\msgpackr-extract\node_modules\.bin133017120649879125 1
+81C:\Apache24\htdocs\isuzo-tripetch\node_modules\msgpackr-extract\node_modules\.bin133017120650242261 1
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\lines-and-columns\build133017118917902046 1
 118C:\Apache24\htdocs\isuzo-tripetch\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133017120649743970 0
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\css-tree\lib\syntax\scope\value.js132959070992550000 0
@@ -1928,7 +1931,7 @@
 91C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133004372652550000 0
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\src\misc.cpp133004372750000000 0
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\src\v8-functions.cpp133004372750000000 0
-69C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\node_modules\.bin133017120648845971 1
+69C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\node_modules\.bin133017120648915701 1
 97C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\node_modules\node-gyp-build-optional-packages133017118798202088 1
 83C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-css\package.json133004372725620000 0
 104C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\node_modules\node-gyp-build-optional-packages\bin.js133004372801520000 0
@@ -2150,7 +2153,7 @@
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\KR.js133014384994920000 0
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlparser2\lib\WritableStream.js132959071022710000 0
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\.eslintignore132959070959300000 0
-44C:\Apache24\htdocs\isuzo-tripetch\assets\img133017115424186110 1
+44C:\Apache24\htdocs\isuzo-tripetch\assets\img133017799860583852 1
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\index.js132959070959300000 0
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133014384989230000 0
 59C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\lib133017118914166557 1
@@ -2242,7 +2245,7 @@
 68C:\Apache24\htdocs\isuzo-tripetch\node_modules\has-flag\package.json132959070973910000 0
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\fontface.js133014384994920000 0
 89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@jridgewell\source-map\dist\source-map.mjs133004372360710000 0
-75C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-sass\src133017120586160220 1
+75C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-sass\src133017120614477084 1
 65C:\Apache24\htdocs\isuzo-tripetch\node_modules\globals\index.d.ts133014384990180000 0
 63C:\Apache24\htdocs\isuzo-tripetch\node_modules\globals\index.js133014384990180000 0
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\@swc\helpers\src\_initializer_define_property.mjs133014384991780000 0
@@ -2274,7 +2277,7 @@
 60C:\Apache24\htdocs\isuzo-tripetch\node_modules\escalade\sync133017118907331033 1
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\@types\parse-json133017118812197997 1
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\escalade\sync\index.js132959070979620000 0
-89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-terser\node_modules\.bin133017120642852369 1
+89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-terser\node_modules\.bin133017120642886687 1
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\escalade\sync\index.mjs132959070979620000 0
 63C:\Apache24\htdocs\isuzo-tripetch\node_modules\error-ex\LICENSE132959071107090000 0
 68C:\Apache24\htdocs\isuzo-tripetch\node_modules\error-ex\package.json132959071107090000 0
@@ -2291,7 +2294,6 @@
 65C:\Apache24\htdocs\isuzo-tripetch\node_modules\entities\readme.md132959071090110000 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\entities\lib\decode.d.ts132959071090110000 0
 90C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\css-scrollbar.js133014384994920000 0
-69C:\Apache24\htdocs\isuzo-tripetch\node_modules\entities\lib\decode.js132959071090110000 0
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\entities\lib\decode_codepoint.d.ts.map132959071090110000 0
 115C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\package.json133004372775630000 0
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\LB.js133014384994920000 0
@@ -2708,7 +2710,7 @@
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\css-text-align-last.js133014384994920000 0
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-raw133017118843424027 1
 75C:\Apache24\htdocs\isuzo-tripetch\node_modules\chrome-trace-event\README.md132959070978470000 0
-61C:\Apache24\htdocs\isuzo-tripetch\node_modules\chokidar\types133017120587039429 1
+61C:\Apache24\htdocs\isuzo-tripetch\node_modules\chokidar\types133017120620761126 1
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\chokidar\lib\constants.js132959977520080000 0
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@swc\helpers\lib\_class_call_check.js133014384991780000 0
 65C:\Apache24\htdocs\isuzo-tripetch\node_modules\chalk\package.json132959070872980000 0
@@ -2789,7 +2791,7 @@
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\DZ.js133014384994920000 0
 134C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\package.json133004372775630000 0
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\EG.js133014384994920000 0
-89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-sass\node_modules\.bin133017120646060087 1
+89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-sass\node_modules\.bin133017120646128863 1
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\ER.js133014384994920000 0
 67C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\hash\LICENSE133004372686290000 0
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\ET.js133014384994920000 0
@@ -2939,7 +2941,7 @@
 92C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\iframe-seamless.js133014384994920000 0
 91C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\battery-status.js133014384994920000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\beforeafterprint.js133014384994920000 0
-86C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-css\node_modules\.bin133017120642609589 1
+86C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-css\node_modules\.bin133017120642658611 1
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\@babel\highlight\node_modules133017118503678122 1
 83C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\bigint.js133014384994920000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\node-resolver-core\test\fixture\nested133017119144472106 1
@@ -3182,7 +3184,7 @@
 86C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\indexeddb.js133014384994920000 0
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-html\package.json133004372727740000 0
 87C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\indexeddb2.js133014384994920000 0
-88C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\package-manager\node_modules\.bin133017120642936399 1
+88C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\package-manager\node_modules\.bin133017120642983560 1
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\boolbase\index.js132959071065100000 0
 89C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\inline-block.js133014384994920000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\packager-js\LICENSE133004372711800000 0
@@ -3312,7 +3314,7 @@
 99C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\scrollintoviewifneeded.js133014384994920000 0
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\sdch.js133014384994920000 0
 90C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\server-timing.js133014384994920000 0
-91C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin133017120642688564 1
+91C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin133017120642699052 1
 91C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\serviceworkers.js133014384994920000 0
 89C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\setimmediate.js133014384994920000 0
 82C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\sha-2.js133014384994920000 0
@@ -3366,6 +3368,7 @@
 87C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\use-strict.js133014384994920000 0
 93C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\user-select-none.js133014384994920000 0
 91C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\variable-fonts.js133014384994920000 0
+70C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Header.scss133017844309462483 0
 90C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\vector-effect.js133014384994920000 0
 86C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\vibration.js133014384994920000 0
 88C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\videotracks.js133014384994920000 0
@@ -3417,7 +3420,7 @@
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\utils\src\bundle-url.js133004372650320000 0
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\browserslist\package.json133014384985220000 0
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\browserslist\README.md133014384985220000 0
-77C:\Apache24\htdocs\isuzo-tripetch\node_modules\browserslist\node_modules\.bin133017120646685222 1
+77C:\Apache24\htdocs\isuzo-tripetch\node_modules\browserslist\node_modules\.bin133017120647376966 1
 99C:\Apache24\htdocs\isuzo-tripetch\node_modules\browserslist\node_modules\.bin\browserslist-lint.cmd133017120647548700 0
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\src\PackagerRunner.js133004372677160000 0
 66C:\Apache24\htdocs\isuzo-tripetch\node_modules\braces\CHANGELOG.md132959977520230000 0
@@ -3756,10 +3759,9 @@
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\LICENSE133004372738260000 0
 75C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\test133017119005299902 1
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\src\inline.js133004372738260000 0
-92C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133004372738260000 0
 58C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\parcel133017120653283185 0
 87C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\diagnostic\test\markdown.test.js133004372672760000 0
-88C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\node_modules\.bin133017120646222159 1
+88C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\node_modules\.bin133017120646285767 1
 99C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\node_modules\.bin\semver.cmd133017120646285767 0
 97C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133017119141019935 1
 90C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\lib\dependencies.js133004372738260000 0
@@ -3807,7 +3809,7 @@
 90C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-js\src\JSTransformer.js133004372720250000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\css\node\index.d.ts133017118424920000 0
 87C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-js\src\loadNative.js133004372720250000 0
-87C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-js\node_modules\.bin133017120643640588 1
+87C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-js\node_modules\.bin133017120643670533 1
 79C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\packager-js\lib\utils.js133004372711800000 0
 100C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-js\node_modules\.bin\browserslist133017120643605160 0
 99C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-js\node_modules\.bin\detect-libc133017120643640588 0
@@ -3827,14 +3829,14 @@
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\reporter-cli\src\logLevels.js133004372681830000 0
 74C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-css\src133017119000606132 1
 92C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-css\src\CSSTransformer.js133004372725620000 0
-88C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-css\node_modules\.bin133017120643425248 1
+88C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-css\node_modules\.bin133017120643455520 1
 101C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-css\node_modules\.bin\browserslist133017120643455520 0
 105C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-css\node_modules\.bin\browserslist.cmd133017120643455520 0
 95C:\Apache24\htdocs\isuzo-tripetch\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs.map133014385007550000 0
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\src133017119006724173 1
 95C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133004372724100000 0
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\src\types.js133004372724100000 0
-90C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\node_modules\.bin133017120643311773 1
+90C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\node_modules\.bin133017120643373993 1
 107C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\node_modules\.bin\browserslist.cmd133017120643160253 0
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\node_modules\.bin\json5133017120643311773 0
 100C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-babel\node_modules\.bin\json5.cmd133017120643311773 0
@@ -4293,7 +4295,7 @@
 76C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\dist133017118930382815 1
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\node_modules133017120637070994 1
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\package.json132959070939090000 0
-89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\node_modules\.bin133017120637070994 1
+89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\node_modules\.bin133017120638080863 1
 95C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\node_modules\.bin\json5133017120638080863 0
 99C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\node_modules\.bin\json5.cmd133017120638080863 0
 87C:\Apache24\htdocs\isuzo-tripetch\node_modules\@mischnic\json-sourcemap\dist\index.d.ts132959070939090000 0
@@ -4432,8 +4434,12 @@
 60C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\svgo.cmd133017120652820027 0
 58C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\terser133017120652859984 0
 62C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\terser.cmd133017120652859984 0
-48C:\Apache24\htdocs\isuzo-tripetch\dist\index.css133017124154620567 0
+48C:\Apache24\htdocs\isuzo-tripetch\dist\index.css133017844980176907 0
 47C:\Apache24\htdocs\isuzo-tripetch\assets\styles133017115379020674 1
-58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components133017123803638885 1
-58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\index.scss133017124146351014 0
-69C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Reset.scss133017123839343627 0
+58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components133017823848722729 1
+58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\index.scss133017824277439825 0
+69C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Reset.scss133017827592031440 0
+73C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Variables.scss133017827975307182 0
+55C:\Apache24\htdocs\isuzo-tripetch\assets\img\Banner.png133017767010890307 0
+56C:\Apache24\htdocs\isuzo-tripetch\assets\img\Banner1.png133017771353096795 0
+53C:\Apache24\htdocs\isuzo-tripetch\assets\img\logo.png133017771594171891 0
