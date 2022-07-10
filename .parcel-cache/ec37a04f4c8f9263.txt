@@ -1,4 +1,4 @@
-4447
+4452
 46C:\Apache24\htdocs\isuzo-tripetch\package.json133017120653968021 0
 63C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\lib\svgo.js132959070957740000 0
 51C:\Apache24\htdocs\isuzo-tripetch\node_modules\csso133017118772843241 1
@@ -61,7 +61,7 @@
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\escalade\sync\index.d.ts132959070979620000 0
 55C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\lib133017119036836343 1
 75C:\Apache24\htdocs\isuzo-tripetch\node_modules\@types\parse-json\index.d.ts132959071070650000 0
-38C:\Apache24\htdocs\isuzo-tripetch\dist133019064588674468 1
+38C:\Apache24\htdocs\isuzo-tripetch\dist133019548869405652 1
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133004372750000000 0
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\plugins\removeUselessDefs.js132959070957740000 0
 85C:\Apache24\htdocs\isuzo-tripetch\node_modules\svgo\plugins\convertEllipseToCircle.js132959070957740000 0
@@ -73,7 +73,7 @@
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\postcss-value-parser\lib133017119015874763 1
 112C:\Apache24\htdocs\isuzo-tripetch\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133014384991780000 0
 55C:\Apache24\htdocs\isuzo-tripetch\node_modules\mdn-data133017118790782843 1
-44C:\Apache24\htdocs\isuzo-tripetch\index.html133019065058672040 0
+44C:\Apache24\htdocs\isuzo-tripetch\index.html133019548567327517 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\terser\dist\package.json133004372209420000 0
 73C:\Apache24\htdocs\isuzo-tripetch\node_modules\tslib\modules\package.json132978983876320000 0
 62C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\caching.js133004372750000000 0
@@ -1387,7 +1387,7 @@
 77C:\Apache24\htdocs\isuzo-tripetch\node_modules\lmdb\dependencies\lmdb-data-v1133017118646637910 1
 88C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\lib\source-map-generator.js132959977520210000 0
 79C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map-js\lib\source-node.js132959977520210000 0
-52C:\Apache24\htdocs\isuzo-tripetch\dist\index.css.map133019064588654532 0
+52C:\Apache24\htdocs\isuzo-tripetch\dist\index.css.map133019548869375740 0
 70C:\Apache24\htdocs\isuzo-tripetch\node_modules\source-map\CHANGELOG.md132959071013440000 0
 71C:\Apache24\htdocs\isuzo-tripetch\node_modules\node-gyp-build\README.md133014384988380000 0
 91C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-html\lib\dependencies.js133004372727740000 0
@@ -2154,7 +2154,7 @@
 78C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\regions\KR.js133014384994920000 0
 80C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlparser2\lib\WritableStream.js132959071022710000 0
 69C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\.eslintignore132959070959300000 0
-44C:\Apache24\htdocs\isuzo-tripetch\assets\img133017799860583852 1
+44C:\Apache24\htdocs\isuzo-tripetch\assets\img133019533593381522 1
 64C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\index.js132959070959300000 0
 96C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133014384989230000 0
 59C:\Apache24\htdocs\isuzo-tripetch\node_modules\htmlnano\lib133017118914166557 1
@@ -3128,6 +3128,7 @@
 89C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\src\requests\TargetRequest.js133004372677160000 0
 84C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\svg-img.js133014384994920000 0
 86C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\dragndrop.js133014384994920000 0
+57C:\Apache24\htdocs\isuzo-tripetch\assets\img\Group 29.png133019533231130561 0
 92C:\Apache24\htdocs\isuzo-tripetch\node_modules\caniuse-lite\data\features\element-closest.js133014384994920000 0
 79C:\Apache24\htdocs\isuzo-tripetch\node_modules\@swc\helpers\src\_instanceof.mjs133014384991780000 0
 83C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\transformer-svg\node_modules133017120646222159 1
@@ -4002,7 +4003,7 @@
 94C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133004372677160000 0
 83C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-image\package.json133004372704460000 0
 81C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\core\src\public\Symbols.js133004372677160000 0
-70C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Banner.scss133019061898877630 0
+70C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Banner.scss133019529555780168 0
 100C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-image\node_modules\.bin\detect-libc133017120642699052 0
 104C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-image\node_modules\.bin\detect-libc.cmd133017120642699052 0
 77C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\optimizer-htmlnano\lib133017118982143872 1
@@ -4082,6 +4083,7 @@
 91C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\node-resolver-core\node_modules\.bin133017120642335851 1
 92C:\Apache24\htdocs\isuzo-tripetch\node_modules\@jridgewell\source-map\dist\source-map.umd.js133004372360710000 0
 88C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\namer-default\lib\DefaultNamer.js133004372696210000 0
+57C:\Apache24\htdocs\isuzo-tripetch\assets\img\Group 28.png133019533169726248 0
 72C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\markdown-ansi\src133017118978821799 1
 90C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133004372687920000 0
 65C:\Apache24\htdocs\isuzo-tripetch\node_modules\@parcel\logger\src133017118978238286 1
@@ -4436,13 +4438,16 @@
 60C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\svgo.cmd133017120652820027 0
 58C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\terser133017120652859984 0
 62C:\Apache24\htdocs\isuzo-tripetch\node_modules\.bin\terser.cmd133017120652859984 0
-48C:\Apache24\htdocs\isuzo-tripetch\dist\index.css133019064588624581 0
+48C:\Apache24\htdocs\isuzo-tripetch\dist\index.css133019548869315892 0
 47C:\Apache24\htdocs\isuzo-tripetch\assets\styles133017115379020674 1
-58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components133018997158482360 1
-58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\index.scss133018809679252370 0
+58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components133019536829077714 1
+58C:\Apache24\htdocs\isuzo-tripetch\assets\styles\index.scss133019537601203137 0
+69C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Photo.scss133019548866490010 0
 69C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Reset.scss133017827592031440 0
-73C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Variables.scss133019011901448765 0
+73C:\Apache24\htdocs\isuzo-tripetch\assets\styles\components\Variables.scss133019541537487041 0
 52C:\Apache24\htdocs\isuzo-tripetch\assets\js\index.js133019058788628130 0
 55C:\Apache24\htdocs\isuzo-tripetch\assets\img\Banner.png133017767010890307 0
 56C:\Apache24\htdocs\isuzo-tripetch\assets\img\Banner1.png133017771353096795 0
+57C:\Apache24\htdocs\isuzo-tripetch\assets\img\Group 24.png133019533140259696 0
+57C:\Apache24\htdocs\isuzo-tripetch\assets\img\Group 30.png133019533271960645 0
 53C:\Apache24\htdocs\isuzo-tripetch\assets\img\logo.png133017771594171891 0
