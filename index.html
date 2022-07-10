@@ -16,7 +16,10 @@
 <body>
   <header class="Header">
     <div class="Container">
-      <nav>
+      <nav id="Nav">
+        <button id="Btn-mobile">
+          <span id="Hamburguer"></span>
+        </button>
         <ul class="Header-menu">
           <li><a href="#">Mission</a></li>
           <li><a href="#">People</a></li>
@@ -28,12 +31,15 @@
   </header>
 
   <section class="Banner">
-    <picture class="Banner-bg">
-      <source media="(min-width: 731px)" srcset="/assets/img/logo.png">
-      <source media="(min-width: 361px)" srcset="/assets/img/Banner1.png">
-      <img src="/assets/img/Banner.png" alt="">
-    </picture>
+    <div class="Container">
+      <picture class="Banner-bg">
+        <source media="(min-width: 731px)" srcset="/assets/img/logo.png">
+        <source media="(min-width: 361px)" srcset="/assets/img/Banner1.png">
+        <img src="/assets/img/Banner.png" alt="">
+      </picture>
+    </div>
   </section>
 </body>
+<script src="./assets/js/index.js"></script>
 
 </html>
