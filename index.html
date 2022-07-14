@@ -10,6 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@400;700&display=swap"
     rel="stylesheet">
   <link rel="stylesheet" href="./dist/index.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
   <title>Isuzo</title>
 </head>
 
@@ -76,47 +77,29 @@
 
   <section class="Mission">
     <h1 class="Mission-text">Mission</h1>
-    <div class="Mission-slider">
-      <div class="Mission-slide">
-        <input type="radio" nome="radio-btn" id="radio1">
-        <input type="radio" nome="radio-btn" id="radio2">
-        <input type="radio" nome="radio-btn" id="radio3">
-        <input type="radio" nome="radio-btn" id="radio4">
-
-        <div class="Mission-slides first">
-          <figure class="Photo">
+    <div class="Container">
+      <div class="Mission-slides">
+        <div class="Mission-slide">
+          <figure id="first" class="Image">
+            <img src="./assets/img/pexels-fauxels-3183150 1.png" alt="">
+          </figure>
+          <figure class="Image">
+            <img src="./assets/img/Group 33.png" alt="">
+          </figure>
+          <figure class="Image">
+            <img src="./assets/img/Group 27.png" alt="">
+          </figure>
+          <figure class="Image">
             <img src="./assets/img/pexels-fauxels-3183150 1.png" alt="">
           </figure>
         </div>
-        <div class="Mission-slides">
-          <figure>
-            <img src="./assets/img/Group 27.png" alt="">
-          </figure>
-        </div>
-        <div class="Mission-slides">
-          <figure>
-            <img src="./assets/img/Group 33.png" alt="">
-          </figure>
-        </div>
-        <div class="Mission-slides">
-          <figure>
-            <img src="./assets/img/Group 32.png" alt="">
-          </figure>
-        </div>
 
-        <div class="Navigation-auto">
-          <div class="auto-btn1"></div>
-          <div class="auto-btn2"></div>
-          <div class="auto-btn3"></div>
-          <div class="auto-btn4"></div>
+        <div class="Balls">
+          <div class="ImgAtual" id="0"></div>
+          <div id="1"></div>
+          <div id="2"></div>
+          <div id="3"></div>
         </div>
-      </div>
-
-      <div class="Manual-navigation">
-        <label for="radio1" class="Manual-btn"></label>
-        <label for="radio2" class="Manual-btn"></label>
-        <label for="radio3" class="Manual-btn"></label>
-        <label for="radio4" class="Manual-btn"></label>
       </div>
     </div>
   </section>
