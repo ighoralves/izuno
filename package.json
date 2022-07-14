@@ -6,5 +6,8 @@
   "scripts": {
     "watch": "parcel watch ./assets/styles/index.scss --public-url ./",
     "build": "parcel build"
+  },
+  "dependencies": {
+    "swiper": "^8.3.1"
   }
 }
