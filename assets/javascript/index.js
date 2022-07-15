@@ -9,10 +9,9 @@ function toggleMenu(event) {
 btnMobile.addEventListener('click', toggleMenu);
 btnMobile.addEventListener('touchstart', toggleMenu);
 
-
-import Swiper from 'https://unpkg.com/swiper/swiper-bundle.esm.browser.min.js'
+import Swiper from 'swiper';
   
-const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper('.swiper', {
   slidesPerView: 'auto',
   navigation: {
     nextEl: '.swiper-button-next',
@@ -22,3 +21,5 @@ const swiper = new Swiper('.swiper-container', {
     el: '.swiper-pagination',
   },
 });
+
+export {swiper}; 

@@ -1,11 +1,19 @@
 {
+  "name": "isuzo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "<ighoralvesg@apiki.com>",
+  "license": "MIT",
   "devDependencies": {
     "@parcel/transformer-sass": "2.6.2",
-    "parcel": "^2.6.2"
+    "parcel": "^2.6.2",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.11"
   },
   "scripts": {
-    "watch": "parcel watch ./assets/styles/index.scss --public-url ./",
-    "build": "parcel build"
+    "build": "parcel build ./assets/styles/* --public-url ./ && parcel build ./assets/javascript/* --public-url ./",
+    "dev": "parcel watch ./assets/styles/* --public-url ./ && parcel build ./assets/javascript/* --public-url ./"
   },
   "dependencies": {
     "swiper": "^8.3.1"
