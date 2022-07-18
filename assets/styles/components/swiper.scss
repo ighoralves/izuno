@@ -1,10 +1,12 @@
 .swiper {
-  position: relative;
-  top: 630px;
-  left: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 
 
-  &-text {
+
+  &-title {
+    margin-left: 6px;
+    text-transform: capitalize;
     margin-bottom: 25px;
     font-size: 20px;
     font-weight: 700;
@@ -17,6 +19,7 @@
 
   img {
     max-width: 300px;
+    margin-left: 50px;
 
   }
 

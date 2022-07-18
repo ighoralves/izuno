@@ -1,105 +1,23 @@
 .Photo {
+  margin-top: 30px;
 
-  &-tumblr {
-    position: absolute;
-    width: 166px;
-    height: 260px;
-    left: 8px;
-    top: 852px;
-
-    h3 {
-      position: absolute;
-      width: 72px;
-      height: 24px;
-      left: 46px;
-      top: 230px;
-
-      font-style: normal;
-      font-weight: 700;
-      font-size: 20px;
-      line-height: 24px;
-
-      text-transform: capitalize;
-
-      color: #fff;
-    }
-
+  .Container {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
   }
 
-  &-tumblr1 {
-    position: absolute;
-    width: 166px;
-    height: 260px;
-    left: 183px;
-    top: 852px;
-
-    h3 {
-      position: absolute;
-      width: 72px;
-      height: 24px;
-      left: 46px;
-      top: 230px;
-
-      font-style: normal;
-      font-weight: 700;
-      font-size: 20px;
-      line-height: 24px;
-
-      text-transform: capitalize;
-
-      color: #fff;
-    }
-
+  &-image {
+    position: relative;
   }
 
-  &-tumblr2 {
+  &-title {
+    text-transform: capitalize;
+    font-size: 20px;
     position: absolute;
-    width: 166px;
-    height: 260px;
-    left: 8px;
-    top: 1120px;
-
-    h3 {
-      position: absolute;
-      width: 72px;
-      height: 24px;
-      left: 46px;
-      top: 230px;
-
-      font-style: normal;
-      font-weight: 700;
-      font-size: 20px;
-      line-height: 24px;
-
-      text-transform: capitalize;
-
-      color: #fff;
-    }
-
-  }
-
-  &-tumblr3 {
-    position: absolute;
-    width: 166px;
-    height: 260px;
-    left: 183px;
-    top: 1120px;
-
-    h3 {
-      position: absolute;
-      width: 72px;
-      height: 24px;
-      left: 46px;
-      top: 230px;
-
-      font-weight: 700;
-      font-size: 20px;
-      line-height: 24px;
-
-      text-transform: capitalize;
-
-      color: #fff;
-    }
-
+    top: 230px;
+    left: 60px;
+    color: #fff;
   }
 }
