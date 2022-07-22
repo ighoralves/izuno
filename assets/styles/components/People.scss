@@ -1,13 +1,9 @@
 .People {
   margin-bottom: 30px;
 
-  .Container {
-    margin-top: 30px;
-    margin-left: 20px;
-  }
-
   &-title {
     margin-top: 20px;
+    margin-bottom: 20px;
     font-size: 20px;
     font-weight: 700;
     margin-left: 6px;
@@ -20,8 +16,7 @@
 
   &-text {
     background: $Blue-color;
-    width: 320px;
-    height: 100%;
+
 
     p {
       color: #fff;
@@ -36,7 +31,7 @@
   &-frase {
     color: #fff;
     padding-top: 30px;
-    width: 300px;
+
     font-size: 20px;
     margin-left: 10px;
     line-height: 25px;

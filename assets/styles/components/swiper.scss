@@ -3,7 +3,6 @@
   margin-bottom: 30px;
 
 
-
   &-title {
     margin-left: 6px;
     text-transform: capitalize;
@@ -17,11 +16,7 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
-  img {
-    max-width: 300px;
-    margin-left: 50px;
-
-  }
+  img {}
 
   &-pagination {
     bottom: 110px !important;
