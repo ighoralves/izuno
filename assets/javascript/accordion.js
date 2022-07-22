@@ -1,32 +1,19 @@
-const cards = document.querySelectorAll("Career-cards");
+const accordionBtns = document.querySelectorAll(".accordion");
 
-cards.forEach((item) => {
-  const card = item.querySelector(".Career-card");
+accordionBtns.forEach((accordion) => {
+  accordion.onclick = function () {
+    this.classList.toggle("is-open");
 
-    card.addEventListener("click", () => {
-      const card = item.querySelector(".Career-content");
+    let content = this.nextElementSibling;
+    console.log(content);
 
-      const content_active = document.querySelector(".active");
-
-      VerifyActive(item, card, content_active);
-    });
-})
-
-function VerifyActive(item, content, content_active) {
-  const icon_itens = item.querySelector(".fa-solid");
-
-  const icons = document.querySelectorAll("fa-solid");
-
-  icons.forEach((item) => (item.innerHTML = "+"));
-
-  if(content_active) {
-    content_active.style.height = 0;
-    content_active.classList.remove("active");
-  }
-
-  if(content !== content_active) {
-    icon_itens.innerHTML ="-";
-    content.classListL.add("active");
-    content.style.hright = content.scrollHeight + 10 + "px";
-  }
-}
+    if (content.style.maxHeight) {
+      //this is if the accordion is open
+      content.style.maxHeight = null;
+    } else {
+      //if the accordion is currently closed
+      content.style.maxHeight = content.scrollHeight + "px";
+      console.log(content.style.maxHeight);
+    }
+  };
+});

@@ -1,57 +1,55 @@
 .Career {
-  .Container {
-    margin-bottom: 30px;
-    margin-top: 20px;
-  }
+
 
   &-title {
     font-size: 20px;
     font-weight: 700;
-    text-transform: capitalize;
     margin-left: 6px;
-    margin-top: 10px;
-  }
-
-  &-cards {
-    border: 1px solid #94A1B1;
-    border-radius: 8px;
-    width: 320px;
-    height: 100%;
-    padding: 15px 0px;
-    margin-left: 20px;
+    text-transform: capitalize;
     margin-bottom: 20px;
   }
 
-  &-content {
-    color: $Blue-color;
-    overflow: hidden;
-    width: 300px;
-    height: 0;
-    transition: all .5s ease;
 
-    p {
-      text-align: justify;
-    }
-  }
-
-  &-card {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-  }
-
-  &-text {
-    color: $Red-color;
+  button.accordion {
+    width: 320px;
+    height: 100%;
+    border: 1px solid #94A1B1;
+    background: #fff;
+    outline: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    margin-left: 20px;
     font-size: 16px;
     font-weight: 700;
-    width: 250px;
+    color: $Red-color;
     cursor: pointer;
   }
 
-  .active {
-    padding-bottom: 10px;
-    display: block;
+  button.accordion:after {
+    content: "\f150";
+    font-size: 18px;
+    float: right;
+
+  }
+
+  button.accordion.is-open:after {
+    content: "\f151";
+  }
+
+
+
+  .accordion-content {
+    color: $Blue-color;
+    width: 300px;
+    height: 100%;
+
+    padding: 0 20px;
+    margin-left: 10px;
+    max-height: 0;
+    margin-bottom: 10px;
+    overflow: hidden;
+    transition: 0.4s ease-in-out;
   }
 
 

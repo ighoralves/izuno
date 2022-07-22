@@ -1,0 +1,38 @@
+.Contact {
+  margin-bottom: 20px;
+
+  .Container {
+    max-width: 320px;
+    height: 100%;
+  }
+
+  &-title {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+
+  &-card {
+    background: $Blue-color;
+    padding: 30px;
+
+
+    span {
+      color: #fff;
+      font-size: 18px;
+      font-weight: 700;
+      margin-left: 5px;
+    }
+  }
+
+
+  &-text {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 10px;
+    margin-left: 5px;
+  }
+}
