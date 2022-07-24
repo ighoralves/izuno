@@ -20,4 +20,23 @@
     left: 45px;
     color: #fff;
   }
+
+  @media (min-width: 720px) {
+    .Container {
+      display: flex;
+      justify-content: space-around;
+    }
+
+    &-title {
+      top: 225px;
+    }
+  }
+
+  @media (max-width: 1440px) {
+    .Container {
+      justify-content: center;
+
+
+    }
+  }
 }
