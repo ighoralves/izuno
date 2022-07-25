@@ -1,2 +1,493 @@
-a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1;width:100%;height:100%}ol,ul{list-style:none}img{vertical-align:middle;max-width:100%;height:auto}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}.Container{max-width:1440px;margin:0 auto}body{font-family:Roboto}.Header{width:100%;height:50px;position:absolute}.Header #Nav{display:flex;justify-content:flex-end}.Header #Btn-mobile{margin:7px}.Header-menu a{color:#fff;text-decoration:none}@media (max-width:2000px){.Header-menu{position:absolute;width:100%;background:#0d162f;text-align:center;height:0;transition:.6s;z-index:1000;visibility:hidden;overflow-y:hidden}.Header-menu li{margin-top:100px}.Header-menu a{font-size:30px;border-bottom:2px solid #fff}#Nav.active .Header-menu{height:100vh;visibility:visible}.Header #Btn-mobile{display:flex;padding:8px 13px;font-size:18px;border:none;background:none;cursor:pointer;gap:5px;z-index:1001}.Header #Hamburguer{display:block;color:#fff;width:20px;border-top:2px solid}.Header #Hamburguer:after,.Header #Hamburguer:before{content:"";display:block;width:20px;height:2px;background:#00f;margin-top:5px;background:currentColor;transition:.3s;position:relative}.Header #Nav.active #Hamburguer{border-top-color:transparent}.Header #Nav.active #Hamburguer:before{transform:rotate(135deg)}.Header #Nav.active #Hamburguer:after{transform:rotate(-135deg);top:-7px}}.Banner,.Banner-title{width:100%;height:100%}.Banner-title{position:absolute;color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:40px}.Banner-text{text-transform:uppercase;letter-spacing:10px;font-weight:700;font-size:48px;line-height:56px}.Banner p{width:300px;font-size:32px;text-align:center;font-weight:700;line-height:40px}.Banner-btn{padding:12px 16px;background:#ee0505;border-radius:40px;border:none;color:#fff;text-transform:capitalize;font-weight:700;font-size:14px;line-height:20px}@media (min-width:720px){.Banner-title{gap:5px}.Banner p{width:100%}.Banner-btn{margin-top:40px}}.Photo{margin-top:30px}.Photo .Container{text-align:center;display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.Photo-image{position:relative}.Photo-title{text-transform:capitalize;font-size:20px;position:absolute;top:210px;left:45px;color:#fff}@media (min-width:720px){.Photo .Container{display:flex;justify-content:space-around}.Photo-title{top:225px}}@media (max-width:1440px){.Photo .Container{justify-content:center}}.swiper{width:100%;height:100%;margin-top:30px;margin-bottom:30px}.swiper-title{margin-left:6px;text-transform:capitalize;margin-bottom:25px;font-size:20px;font-weight:700}.swiper-wrap{display:flex;justify-content:center}.swiper-pagination{bottom:110px!important;left:165px!important}.swiper-pagination-bullet{width:10px!important;height:10px!important;background:#fff!important}.People{width:100%;height:100%;margin-bottom:30px}.People-title{margin-top:20px;margin-bottom:20px;font-size:20px;font-weight:700}.People-title,.People-tumbl{margin-left:6px}.People-text{max-width:325px;background:#0d162f;padding:10px}.People-text p{font-size:16px;font-weight:400}.People-frase,.People-text p{color:#fff;line-height:25px;max-width:350px}.People-frase{font-size:20px;font-weight:700}@media (min-width:720px){.People .Container{padding:0 10px}.People-tumbl{display:flex}}@media (max-width:1440px){.People-tumbl{justify-content:center}.People-text{width:500px}}.Career{width:100%;height:100%}.Career-title{font-size:20px;font-weight:700;margin-left:6px;text-transform:capitalize;margin-bottom:20px}.Career-card{padding:0 10px}.Career button.accordion{width:100%;border:1px solid #94a1b1;background:#fff;padding:10px;border-radius:8px;display:flex;justify-content:space-between;align-items:center;font-size:16px;font-weight:700;color:#ee0505;cursor:pointer}.Career button.accordion:after{content:"\f150";font-size:18px;float:right}.Career button.accordion.is-open:after{content:"\f151"}.Career .accordion-content{color:#0d162f;border:1px solid #94a1b1;padding:0 20px;max-height:0;margin-left:3px;margin-bottom:10px;overflow:hidden;transition:.4s ease-in-out}.Contact{width:100%;height:100%;margin-top:20px;margin-bottom:50px}.Contact-title{font-size:20px;font-weight:700;margin-left:6px;margin-bottom:20px}.Contact-card{background:#0d162f;padding:30px}.Contact-card span{font-size:18px}.Contact-card span,.Contact-text{color:#fff;font-weight:700;margin-left:5px}.Contact-text{font-size:20px;line-height:24px;margin-bottom:10px}@media (min-width:720px){.Contact-cards{display:flex;align-items:center;justify-content:center}.Contact-card{padding:53px 20px}}.Footer{width:100%;height:100%;background:#0d162f}.Footer-text{color:#fff;padding:10px;text-align:center}
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+b,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+  width: 100%;
+  height: 100%;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.Container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Roboto";
+}
+
+.Header {
+  width: 100%;
+  height: 50px;
+  position: absolute;
+}
+.Header #Nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.Header #Btn-mobile {
+  margin: 7px;
+}
+.Header-menu a {
+  color: #fff;
+  text-decoration: none;
+}
+@media (max-width: 2000px) {
+  .Header-menu {
+    position: absolute;
+    width: 100%;
+    background: #0D162F;
+    text-align: center;
+    height: 0px;
+    transition: 0.6s;
+    z-index: 1000;
+    visibility: hidden;
+    overflow-y: hidden;
+  }
+  .Header-menu li {
+    margin-top: 100px;
+  }
+  .Header-menu a {
+    font-size: 30px;
+    border-bottom: 2px solid #fff;
+  }
+  #Nav.active .Header-menu {
+    height: 100vh;
+    visibility: visible;
+  }
+  .Header #Btn-mobile {
+    display: flex;
+    padding: 8px 13px;
+    font-size: 18px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    gap: 5px;
+    z-index: 1001;
+  }
+  .Header #Hamburguer {
+    display: block;
+    color: #fff;
+    width: 20px;
+    border-top: 2px solid;
+  }
+  .Header #Hamburguer::after, .Header #Hamburguer::before {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: blue;
+    margin-top: 5px;
+    background: currentColor;
+    transition: 0.3s;
+    position: relative;
+  }
+  .Header #Nav.active #Hamburguer {
+    border-top-color: transparent;
+  }
+  .Header #Nav.active #Hamburguer::before {
+    transform: rotate(135deg);
+  }
+  .Header #Nav.active #Hamburguer::after {
+    transform: rotate(-135deg);
+    top: -7px;
+  }
+}
+
+.Banner {
+  width: 100%;
+  height: 100%;
+}
+.Banner-title {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 40px;
+}
+.Banner-text {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+}
+.Banner p {
+  width: 300px;
+  font-size: 32px;
+  text-align: center;
+  font-weight: 700;
+  line-height: 40px;
+}
+.Banner-btn {
+  padding: 12px 16px;
+  background: #EE0505;
+  border-radius: 40px;
+  border: none;
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+}
+@media (min-width: 720px) {
+  .Banner-title {
+    gap: 5px;
+  }
+  .Banner p {
+    width: 100%;
+  }
+  .Banner-btn {
+    margin-top: 40px;
+  }
+}
+
+.Photo {
+  margin-top: 30px;
+}
+.Photo .Container {
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+.Photo-image {
+  position: relative;
+}
+.Photo-title {
+  text-transform: capitalize;
+  font-size: 20px;
+  position: absolute;
+  top: 210px;
+  left: 45px;
+  color: #fff;
+}
+@media (min-width: 720px) {
+  .Photo .Container {
+    display: flex;
+    justify-content: space-around;
+  }
+  .Photo-title {
+    top: 225px;
+  }
+}
+@media (max-width: 1440px) {
+  .Photo .Container {
+    justify-content: center;
+  }
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.swiper-title {
+  margin-left: 6px;
+  text-transform: capitalize;
+  margin-bottom: 25px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.swiper-wrap {
+  display: flex;
+  justify-content: center;
+}
+.swiper-pagination {
+  bottom: 110px !important;
+  left: 165px !important;
+}
+.swiper-pagination-bullet {
+  width: 10px !important;
+  height: 10px !important;
+  background: #fff !important;
+}
+.People {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 30px;
+}
+.People-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 6px;
+}
+.People-tumbl {
+  margin-left: 6px;
+}
+.People-text {
+  max-width: 325px;
+  background: #0D162F;
+  padding: 10px;
+}
+.People-text p {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  max-width: 350px;
+}
+.People-frase {
+  max-width: 350px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 700;
+}
+@media (min-width: 720px) {
+  .People .Container {
+    padding: 0 10px;
+  }
+  .People-tumbl {
+    display: flex;
+  }
+}
+@media (max-width: 1440px) {
+  .People-tumbl {
+    justify-content: center;
+  }
+  .People-text {
+    width: 500px;
+  }
+}
+
+.Career {
+  width: 100%;
+  height: 100%;
+}
+.Career-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 6px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+.Career-card {
+  padding: 0 10px;
+}
+.Career button.accordion {
+  width: 100%;
+  border: 1px solid #94A1B1;
+  background: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 700;
+  color: #EE0505;
+  cursor: pointer;
+}
+.Career button.accordion:after {
+  content: "\f150";
+  font-size: 18px;
+  float: right;
+}
+.Career button.accordion.is-open:after {
+  content: "\f151";
+}
+.Career .accordion-content {
+  color: #0D162F;
+  border: 1px solid #94A1B1;
+  padding: 0 20px;
+  max-height: 0;
+  margin-left: 3px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  transition: 0.4s ease-in-out;
+}
+.Contact {
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.Contact-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 6px;
+  margin-bottom: 20px;
+}
+.Contact-card {
+  background: #0D162F;
+  padding: 30px;
+}
+.Contact-card span {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 5px;
+}
+.Contact-text {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+@media (min-width: 720px) {
+  .Contact-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Contact-card {
+    padding: 53px 20px;
+  }
+}
+.Footer {
+  width: 100%;
+  height: 100%;
+  background: #0D162F;
+}
+.Footer-text {
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
 /*# sourceMappingURL=index.css.map */
