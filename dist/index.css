@@ -142,8 +142,9 @@ table {
 }
 
 .Container {
-  max-width: 1440px;
+  max-width: 980px;
   margin: 0 auto;
+  padding: 0 16px;
 }
 
 body {
@@ -229,13 +230,17 @@ body {
 }
 
 .Banner {
+  position: relative;
   width: 100%;
   height: 100%;
+}
+.Banner .Container {
+  position: absolute;
+  top: 100px;
 }
 .Banner-title {
   width: 100%;
   height: 100%;
-  position: absolute;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -252,7 +257,6 @@ body {
   line-height: 56px;
 }
 .Banner p {
-  width: 300px;
   font-size: 32px;
   text-align: center;
   font-weight: 700;
@@ -294,11 +298,12 @@ body {
   position: relative;
 }
 .Photo-title {
+  text-align: center;
   text-transform: capitalize;
   font-size: 20px;
   position: absolute;
-  top: 210px;
-  left: 45px;
+  top: 1030px;
+  left: 50px;
   color: #fff;
 }
 @media (min-width: 720px) {
@@ -354,13 +359,11 @@ body {
   font-size: 20px;
   font-weight: 700;
 }
-.People-tumbl {
-  display: block;
-  align-items: center;
-}
 .People-text {
   background: #0D162F;
   padding: 10px;
+  width: 100%;
+  height: 100%;
 }
 .People-text p {
   color: #fff;
@@ -375,16 +378,27 @@ body {
   font-weight: 700;
 }
 @media (min-width: 720px) {
-  .People .Container {
-    padding: 0 10px;
+  .People-frase {
+    line-height: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  .People-text p {
+    font-weight: none;
+    line-height: 23px;
   }
   .People-tumbl {
     display: flex;
   }
 }
-@media (max-width: 1440px) {
-  .People-tumbl {
-    justify-content: center;
+@media (min-width: 1440px) {
+  .People-frase {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .People-text p {
+    line-height: 25px;
+    font-size: 18px;
   }
 }
 
@@ -464,6 +478,9 @@ body {
   margin-bottom: 10px;
   margin-left: 5px;
 }
+.Contact-map {
+  text-align: center;
+}
 @media (min-width: 720px) {
   .Contact-cards {
     display: flex;
@@ -474,6 +491,16 @@ body {
     padding: 53px 20px;
   }
 }
+@media (min-width: 1440px) {
+  .Contact-card {
+    padding: 80px 20px;
+  }
+  .Contact-text {
+    font-size: 25px;
+    line-height: 40px;
+  }
+}
+
 .Footer {
   width: 100%;
   height: 100%;

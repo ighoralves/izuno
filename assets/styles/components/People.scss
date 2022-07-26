@@ -11,15 +11,11 @@
     font-weight: 700;
   }
 
-  &-tumbl {
-    display: block;
-    align-items: center;
-  }
-
   &-text {
     background: $Blue-color;
     padding: 10px;
-
+    width: 100%;
+    height: 100%;
 
     p {
       color: #fff;
@@ -36,9 +32,22 @@
     font-weight: 700;
   }
 
+
+
   @media (min-width: 720px) {
-    .Container {
-      padding: 0 10px;
+
+    &-frase {
+      line-height: 20px;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+
+    &-text {
+
+      p {
+        font-weight: none;
+        line-height: 23px;
+      }
     }
 
     &-tumbl {
@@ -46,12 +55,18 @@
     }
   }
 
-  @media (max-width: 1440px) {
-
-    &-tumbl {
-      justify-content: center;
+  @media (min-width: 1440px) {
+    &-frase {
+      font-size: 25px;
+      line-height: 30px;
     }
 
+    &-text {
+      p {
+        line-height: 25px;
+        font-size: 18px;
+      }
+    }
   }
 
 }

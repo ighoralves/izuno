@@ -34,6 +34,10 @@
     margin-left: 5px;
   }
 
+  &-map {
+    text-align: center;
+  }
+
   @media (min-width: 720px) {
     &-cards {
       display: flex;
@@ -46,5 +50,16 @@
     }
   }
 
-  @media (max-width: 1440px) {}
+  @media (min-width: 1440px) {
+
+    &-card {
+      padding: 80px 20px;
+
+    }
+
+    &-text {
+      font-size: 25px;
+      line-height: 40px;
+    }
+  }
 }
