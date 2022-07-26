@@ -144,7 +144,7 @@ table {
 .Container {
   max-width: 980px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 15px;
 }
 
 body {
@@ -243,6 +243,7 @@ body {
   height: 100%;
   color: #fff;
   display: flex;
+  padding: 10px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -273,15 +274,36 @@ body {
   font-size: 14px;
   line-height: 20px;
 }
+@media (min-width: 589px) {
+  .Banner-title {
+    margin-left: 20px;
+  }
+}
 @media (min-width: 720px) {
   .Banner-title {
-    gap: 5px;
+    gap: 30px;
+    padding: 30px;
   }
   .Banner p {
     width: 100%;
   }
   .Banner-btn {
-    margin-top: 40px;
+    margin-top: 20px;
+  }
+}
+@media (min-width: 1440px) {
+  .Banner-title {
+    padding: 180px;
+  }
+  .Banner-text {
+    font-size: 60px;
+  }
+  .Banner p {
+    font-size: 40px;
+  }
+  .Banner-btn {
+    padding: 15px 18px;
+    font-size: 16px;
   }
 }
 
@@ -306,6 +328,11 @@ body {
   left: 50px;
   color: #fff;
 }
+@media (min-width: 589px) {
+  .Photo .Container {
+    display: flex;
+  }
+}
 @media (min-width: 720px) {
   .Photo .Container {
     display: flex;
@@ -316,7 +343,7 @@ body {
     top: 225px;
   }
 }
-@media (max-width: 1440px) {
+@media (min-width: 1440px) {
   .Photo .Container {
     justify-content: center;
   }
@@ -362,8 +389,6 @@ body {
 .People-text {
   background: #0D162F;
   padding: 10px;
-  width: 100%;
-  height: 100%;
 }
 .People-text p {
   color: #fff;
@@ -384,7 +409,6 @@ body {
     font-size: 18px;
   }
   .People-text p {
-    font-weight: none;
     line-height: 23px;
   }
   .People-tumbl {
