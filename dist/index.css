@@ -304,7 +304,8 @@ body {
 @media (min-width: 720px) {
   .Photo .Container {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 10px;
   }
   .Photo-title {
     top: 225px;
@@ -352,13 +353,12 @@ body {
   margin-bottom: 20px;
   font-size: 20px;
   font-weight: 700;
-  margin-left: 6px;
 }
 .People-tumbl {
-  margin-left: 6px;
+  display: block;
+  align-items: center;
 }
 .People-text {
-  max-width: 325px;
   background: #0D162F;
   padding: 10px;
 }
@@ -367,10 +367,8 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 25px;
-  max-width: 350px;
 }
 .People-frase {
-  max-width: 350px;
   color: #fff;
   font-size: 20px;
   line-height: 25px;
@@ -387,9 +385,6 @@ body {
 @media (max-width: 1440px) {
   .People-tumbl {
     justify-content: center;
-  }
-  .People-text {
-    width: 500px;
   }
 }
 
